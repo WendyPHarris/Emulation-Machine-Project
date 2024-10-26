@@ -5,3 +5,8 @@ Emulation has long been a way for enthusiasts to relive gaming experiences from 
 As a lifelong gamer and tech enthusiast, I’m fascinated by the blend of hardware and software. This project combines both interests by creating a powerful gaming platform that showcases hardware, software, and peripherals, aiming for the best experience for each console's emulation.
 
 This documentation will record my process, from planning and design through execution, highlighting decisions made and challenges encountered.
+
+## Purpose
+The purpose of this project is to transform my current PC into a fully functional home theater emulation machine. This setup will combine modern gaming with retro emulation in a seamless console-like experience by leveraging Steam’s Big Picture mode. The goal is to create a unified interface to access both Steam games and emulated games, allowing me to combine my passions for emulation, hardware, and software development.
+
+The system will provide a cohesive gaming environment that is intuitive, fluid, and powerful. It will cater to both the latest PC titles and classic games from past consoles, offering an all-in-one solution for gaming enthusiasts.
