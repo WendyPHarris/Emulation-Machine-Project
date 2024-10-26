@@ -1,0 +1,22 @@
+# Hardware Choices
+
+## Current System Specifications
+- **CPU**: Ryzen 5 3600
+- **GPU**: GTX 1070 Ti
+- **PSU**: EVGA GQ 650W
+- **Motherboard**: ASUS ROG Strix B450-F Gaming
+- **Case**: Corsair 275R ATX
+- **Storage**: 250GB M.2 SSD, 2TB HDD
+
+## Hardware Requirements
+- **Upgrade Path**: Plan to upgrade the CPU and GPU from Ryzen 5 3600 and GTX 1070 Ti to higher options.
+- **Performance Goal**: Current setup supports all emulators and modern games at 1080p 60fps, medium to high settings. Future upgrades aim for 4K 60fps on ultra settings.
+- **Storage**: Plan to replace current storage with a single 2TB Gen 4 NVMe SSD, potentially adding another Gen 3 NVMe SSD if more capacity is needed.
+- **PCI Generation**: Ensure the latest PCI generation support for GPU.
+- **Size Constraints**: Choose a micro ATX form factor to fit in the entertainment system and prioritize aesthetics.
+- **Remote Power Switch**: A power switch that connects to a PCIe slot and is controlled by remote, allowing the PC to be powered on from a distance.
+
+### Chosen Hardware
+- **Motherboard**: MSI B550M Mortar Micro ATX
+- **Case**: ONZ PC Gaming Case Micro ATX Mid Tower - Dual Chamber, Compact Edition V2
+- **Power Switch**: CERRXIAN PCIe Wireless Computer Remote Control Switch, 2.4G Wireless Remote Computer Power/Reset Switch
