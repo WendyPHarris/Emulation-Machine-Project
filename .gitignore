@@ -1,0 +1,34 @@
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files and executables
+*.out
+*.exe
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+
+# Ignore user-specific editor files
+.vscode/
+.idea/
+*.swp
+
+# Ignore Bash history
+.bash_history
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore PowerShell and Bash scripts with sensitive information (if needed)
+# Uncomment these if you have specific files that need to be ignored
+# config.sh
+# secrets.ps1
+
+# Ignore node_modules if using Node.js for any scripts
+node_modules/
+
+# Ignore Windows shortcuts and system files
+desktop.ini
